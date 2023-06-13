@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Bunzlienergie">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bunzlienergie</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Main.StartGui" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Bunzlienergie.jar">
+        <element id="module-output" name="Bunzlienergie" />
+      </element>
+      <element id="directory" name="resources">
+        <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+      </element>
+    </root>
+  </artifact>
+</component>
